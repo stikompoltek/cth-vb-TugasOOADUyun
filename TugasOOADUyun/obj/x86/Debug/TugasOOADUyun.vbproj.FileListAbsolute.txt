@@ -1,0 +1,9 @@
+J:\TugasNatOOAD\SIPM\TugasOOADUyun\TugasOOADUyun\bin\Debug\TugasOOADUyun.exe
+J:\TugasNatOOAD\SIPM\TugasOOADUyun\TugasOOADUyun\bin\Debug\TugasOOADUyun.pdb
+J:\TugasNatOOAD\SIPM\TugasOOADUyun\TugasOOADUyun\bin\Debug\TugasOOADUyun.xml
+J:\TugasNatOOAD\SIPM\TugasOOADUyun\TugasOOADUyun\obj\x86\Debug\TugasOOADUyun.FrmBangku.resources
+J:\TugasNatOOAD\SIPM\TugasOOADUyun\TugasOOADUyun\obj\x86\Debug\TugasOOADUyun.Resources.resources
+J:\TugasNatOOAD\SIPM\TugasOOADUyun\TugasOOADUyun\obj\x86\Debug\TugasOOADUyun.vbproj.GenerateResource.Cache
+J:\TugasNatOOAD\SIPM\TugasOOADUyun\TugasOOADUyun\obj\x86\Debug\TugasOOADUyun.exe
+J:\TugasNatOOAD\SIPM\TugasOOADUyun\TugasOOADUyun\obj\x86\Debug\TugasOOADUyun.xml
+J:\TugasNatOOAD\SIPM\TugasOOADUyun\TugasOOADUyun\obj\x86\Debug\TugasOOADUyun.pdb
